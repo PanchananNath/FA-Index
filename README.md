@@ -62,7 +62,7 @@ Scholar-FA-Extension/
 ## Installation Guide
 
 1. **Clone or Create Folder**:
-   Create a directory on your local machine named `Scholar-FA-Extension` and save `manifest.json`, `content.js`, and `styles.css` inside it.
+   Clone the github repo or Create a directory on your local machine named `Scholar-FA-Extension` and save `manifest.json`, `content.js`, and `styles.css` inside it.
 
 2. **Open Chrome Extensions**:
    Open Google Chrome and navigate to `chrome://extensions/` in your address bar.
