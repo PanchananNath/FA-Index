@@ -1,0 +1,59 @@
+/* Highlight background of the entire row for first-author papers */
+.first-author-highlight {
+    background-color: #e8f0fe !important;
+    border-left: 4px solid #1a73e8;
+}
+
+/* Bold and blue title for first-author papers */
+.first-author-title {
+    font-weight: bold;
+    color: #1a73e8 !important;
+}
+
+/* Sidebar metric row highlighting */
+.fa-stats-row {
+    background-color: #fce8e6;
+    font-weight: bold;
+}
+
+/* Button Controls Container */
+#fa-controls-container {
+    margin-top: 6px;
+    display: flex;
+    flex-direction: column;
+    gap: 6px;
+}
+
+.fa-btn {
+    width: 100%;
+    padding: 7px 10px;
+    font-weight: 500;
+    font-size: 12px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    transition: background-color 0.2s ease, transform 0.1s ease;
+}
+
+.fa-btn:active {
+    transform: scale(0.98);
+}
+
+.fa-refresh-btn {
+    background-color: #f1f3f4;
+    color: #3c4043;
+    border: 1px solid #dadce0;
+}
+
+.fa-refresh-btn:hover {
+    background-color: #e8eaed;
+}
+
+.fa-csv-btn {
+    background-color: #1a73e8;
+    color: #ffffff;
+}
+
+.fa-csv-btn:hover {
+    background-color: #1557b0;
+}
