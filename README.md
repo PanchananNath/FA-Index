@@ -1,4 +1,4 @@
-# Google Scholar First-Author Metrics & FA-Index Extension
+# FA-Index Google Chrome Extension
 
 A Chrome Browser Extension (Manifest V3) that enhances Google Scholar profile pages by isolating and analyzing a researcher's **first-author paper** contributions. 
 
